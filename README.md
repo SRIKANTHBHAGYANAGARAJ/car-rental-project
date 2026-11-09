@@ -6,7 +6,7 @@ A Web Application that acts as a car rental company. The user can view the avail
 
 - Java 17
 - Spring Boot v2.5.5
-- Maven v3.8.2
+- Maven v3.8.1
 - MySQL Community Server v8.0.27
 - Spring Data JPA
 - Spring Web MVC
