@@ -15,12 +15,6 @@ A Web Application that acts as a car rental company. The user can view the avail
 - JUnit 5
 - Mockito
 
-## Requirements
-
-For building and running the application you need:
-
-- [JDK 1.17](https://www.oracle.com/java/technologies/downloads/)
-- [Maven 3](https://maven.apache.org/download.cgi)
 
 ## How To Run
 
