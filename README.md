@@ -56,4 +56,4 @@ spring:
 
 ## Explore Rest APIs
 
-To explore documentation, run the application and go to `http://localhost:8080/swagger-ui.html`
+
